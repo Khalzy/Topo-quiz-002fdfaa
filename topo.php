@@ -48,6 +48,3 @@ exit;
 
 
 
-// for ($i = 0; $i < count($quiz); $i++) {
-//     echo "Je hebt $i van de 10 goed geraden";
-// }
